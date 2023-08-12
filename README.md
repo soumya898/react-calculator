@@ -18,7 +18,10 @@ The objective of this project is to create a functional React calculator utilizi
 
 ## Relevant Links
 
-[Figma Design Link](https://www.figma.com/file/qMoGAGpjrlC0W3xdIYcvwO/Untitled?type=design&node-id=0-1&t=7vKZ8vv5kH5HFEoE-0)
+-[Figma Design Link](https://www.figma.com/file/qMoGAGpjrlC0W3xdIYcvwO/Untitled?type=design&node-id=0-1&t=7vKZ8vv5kH5HFEoE-0)
+
+- [Project Submission Link](https://course.acciojob.com/start-project?project=896a292e-75ee-43ca-a520-ed277b07df04)
+
 
 ## Getting Started
 
